@@ -1,6 +1,6 @@
 # Customer Churn Pattern Analysis
 
-![Banner]()
+![Banner](Image/customer-churn-analysis-cover.png)
 
 
 ## Description
@@ -64,13 +64,13 @@ The dataset was provided by PwC from a telecom client during PWC Power BI Virtua
 
 ## Dashboard
 
-![1. Demographics]()
+![1. Demographics](Image/1-Demographics.png)
 
-![2. Payments]()
+![2. Payments](Image/2-Payments.png)
 
-![3. Services]()
+![3. Services](Image/3-Services.png)
 
-![4. Filters]()
+![4. Filters](Image/4-Filters.png)
 
-![5. Q&A]()
+![5. Q&A](Image/5-Q&A.png)
 
