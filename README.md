@@ -1,10 +1,7 @@
 
 # Customer Churn Pattern Analysis
 
- 
-Analyzed and performed exploratory data analysis on a customer churn dataset. \
-
-![Banner](C:\Users\Aryak\Documents\FORAGE\Forage (PwC)\1. Project - Customer Churn Analysis\Uploads\Images)
+![Banner]()
 
 
 ## Description
@@ -67,13 +64,13 @@ The dataset was provided by PwC from a telecom client during PWC Power BI Virtua
 
 ## Dashboard
 
-![1. Demographics](C:\Users\Aryak\Documents\FORAGE\Forage (PwC)\1. Project - Customer Churn Analysis\Uploads\Images)
+![1. Demographics]()
 
-![2. Payments](C:\Users\Aryak\Documents\FORAGE\Forage (PwC)\1. Project - Customer Churn Analysis\Uploads\Images)
+![2. Payments]()
 
-![3. Services](C:\Users\Aryak\Documents\FORAGE\Forage (PwC)\1. Project - Customer Churn Analysis\Uploads\Images)
+![3. Services]()
 
-![4. Filters](C:\Users\Aryak\Documents\FORAGE\Forage (PwC)\1. Project - Customer Churn Analysis\Uploads\Images)
+![4. Filters]()
 
-![5. Q&A](C:\Users\Aryak\Documents\FORAGE\Forage (PwC)\1. Project - Customer Churn Analysis\Uploads\Images)
+![5. Q&A]()
 
