@@ -1,4 +1,4 @@
-# Customer Churn Pattern Analysis ![GitHub last commit](https://img.shields.io/github/last-commit/aryakghosal/customer-churn-analysis-PwC) ![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/customer-churn-analysis-PwC?logo=github)
+# Customer Churn Pattern Analysis ![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/customer-churn-analysis-PwC?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/aryakghosal/customer-churn-analysis-PwC)
 
 ![Banner](Images/customer-churn-analysis-cover.png)
 
