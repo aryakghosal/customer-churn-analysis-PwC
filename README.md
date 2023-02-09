@@ -24,13 +24,8 @@ Generally speaking, the less churn a company has, the more customers they keep.
 
 ## Data Collection
 
-<<<<<<< HEAD
 The dataset was provided as an excel file by PwC from a telecom client during PwC Power BI Virtual Internship Program, which contained 7000+ records of customer information consisting major fields like Gender, Senior Citizen, Tenure, Payment Method, Phone Service, Contract, Monthly Charge, Subscriptions, etc. \
 **Link:** [Dataset](02-Churn-Dataset.xlsx)
-=======
-The dataset was provided by PwC from a telecom client during PWC Power BI Virtual Internship Program, which contained 7000+ records of customer information consisting major fields like Gender, Senior Citizen, Tenure, Payment Method, Phone Service, Contract, Monthly Charge, Subscriptions, etc. \
-**Link:**
->>>>>>> 3a58a64baf20333860cddddb7d8a7801924bf142
 
 
 ## Skills
