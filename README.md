@@ -1,6 +1,4 @@
-
 # Customer Churn Pattern Analysis
-
 
 ![Banner]()
 
