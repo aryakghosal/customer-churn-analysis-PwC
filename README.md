@@ -1,4 +1,4 @@
-# Customer Churn Pattern Analysis ![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/customer-churn-analysis-PwC?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/aryakghosal/customer-churn-analysis-PwC)
+# Customer Churn Pattern Analysis &nbsp;![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/customer-churn-analysis-PwC?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/aryakghosal/customer-churn-analysis-PwC)
 
 ![Banner](Images/customer-churn-analysis-cover.png)
 
@@ -24,7 +24,7 @@ Generally speaking, the less churn a company has, the more customers they keep.
 
 ## Data Collection
 
-The dataset was provided as an excel file by PwC from a telecom client during PwC Power BI Virtual Internship Program, which contained 7000+ records of customer information consisting major fields like Gender, Senior Citizen, Tenure, Payment Method, Phone Service, Contract, Monthly Charge, Subscriptions, etc. \
+The dataset was provided as an excel file by PwC from a telecom client during PwC Power BI in Data Analytics Virtual Case Experience, which contained 7000+ records of customer information consisting major fields like Gender, Senior Citizen, Tenure, Payment Method, Phone Service, Contract, Monthly Charge, Subscriptions, etc. \
 **Link:** [Dataset](02-Churn-Dataset.xlsx)
 
 
