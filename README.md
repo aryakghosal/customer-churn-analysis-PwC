@@ -14,7 +14,7 @@ As part of the PwC Power BI in Data Analytics Virtual Case Experience, I analyze
 **What is a Churn Rate?** \
 *Churn Rate*, sometimes known as attrition rate, is the rate at which customers stop doing business with a company over a given period of time. Churn may also apply to the number of subscribers who cancel or don’t renew a subscription. The higher your churn rate, the more customers stop buying from your business. The lower your churn rate, the more customers you retain. Typically, the lower your churn rate, the better.
 
-**Churn Rate** = (Churned Customers / Total Number of Customers) x 100%
+> **Churn Rate** = (Churned Customers / Total Number of Customers) x 100%
 
 **What is Customer Churn?** \
 *Customer Churn* refers to the natural business cycle of losing and acquiring customers. 
