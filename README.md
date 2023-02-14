@@ -1,7 +1,8 @@
-# Customer Churn Pattern Analysis ![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/customer-churn-analysis-PwC?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/aryakghosal/customer-churn-analysis-PwC)
+# Customer Churn Pattern Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/customer-churn-analysis-PwC?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/aryakghosal/customer-churn-analysis-PwC)
 
 ![Banner](Images/customer-churn-analysis-cover.png)
-
 
 ## Description
 As part of the PwC Power BI in Data Analytics Virtual Case Experience, I analyzed a customer churn dataset for a telecom client of PwC Switzerland. Through exploratory data analysis, I uncovered insights into the customer churn patterns, which I then visualized in a Power BI dashboard report. The report provided a clear and interactive way to communicate my findings, helping the client to better understand their customer behavior and make informed decisions to improve customer retention.
