@@ -74,3 +74,5 @@ The dataset was provided as an excel file by PwC from a telecom client during Pw
 
 ![5. Q&A](Images/5-Q&A.png)
 
+[Link to the Dashboard](CustomerChurnAnalysisReport_(PwC).pbix)
+
