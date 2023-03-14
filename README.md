@@ -49,7 +49,7 @@ The dataset was provided as an excel file by PwC from a telecom client during Pw
 - Microsoft Power BI
 
 
-## Observations
+## Insights
 
 - Contract type is a key factor for churn.
 - Month-to-month  customers are more likely to churn. 
@@ -62,6 +62,20 @@ The dataset was provided as an excel file by PwC from a telecom client during Pw
 - As tenure increases, the number of churn customers decreases.
 - Customers with manual payment mode are more likely to churn.
 - Out of the 44% customers with fiber optic internet, 18% of them churned. 
+
+## Recommendations
+
+1. Encourage customers to opt for longer contract durations, such as one or two-year contracts, as these customers are less likely to churn.
+
+2. Provide incentives for customers to switch from month-to-month contracts to longer-term contracts.
+
+3. Provide senior citizens with tailored offers and services that address their unique needs and concerns to reduce churn rates.
+
+4. Focus on retaining female customers with month-to-month contracts, as they appear to be more likely to churn than male customers with the same contract type.
+
+5. Offer convenient payment options and automate payment processes to reduce the number of customers who churn due to manual payment mode.
+
+6. Address the reasons behind the churn of customers with fiber optic internet to reduce the high churn rate among this customer segment.
 
 ## Dashboard
 
